@@ -2,7 +2,7 @@
 html, #container, .inner { background-color:transparent;}
 html {
   background:url(../phuket.png) center center no-repeat fixed;
-  background-size:cover;
+  background-size:contain;
 }
 /* body {
   max-width:800px;
