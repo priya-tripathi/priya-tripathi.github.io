@@ -145,6 +145,10 @@ ul.contact-list li{
   display: inline-block;
   padding: 10px;
 }
+table.contact-table {
+  display: inline-block;
+  padding: 10px;
+}
 
 /* Utility classes */
 /* .hide {
