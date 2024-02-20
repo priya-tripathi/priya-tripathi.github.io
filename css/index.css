@@ -180,7 +180,7 @@ table.contact-table {
 }
 .steps {
   position: relative;
-  margin-top: 32px;
+  margin: 32px;
 }
 .steps::after {
   content: "";
